@@ -7,7 +7,7 @@ This implementation is based on [UDA_PoseEstimation](https://github.com/VisionLe
 1. train on the source domain;
 2. Construct the proxy source domain and train on target dataset.
 
-<img src="figs/net.png" width="800"/>
+<img src="RegSFDA.png" width="800"/>
 
 ### Dataset:
 
